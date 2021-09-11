@@ -1,0 +1,13 @@
+/* CURSOR HOME/END */
+[
+  {
+    "key": "ctrl+shift+alt+h",
+    "command": "cursorHome",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+shift+alt+l",
+    "command": "cursorEnd",
+    "when": "editorTextFocus"
+  }
+]
