@@ -1,0 +1,13 @@
+/* LINES: up/down */
+[
+  {
+    "key": "ctrl+shift+alt+k",
+    "command": "editor.action.moveLinesUpAction",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+shift+alt+j",
+    "command": "editor.action.moveLinesDownAction",
+    "when": "editorTextFocus"
+  }
+]
