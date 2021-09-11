@@ -1,0 +1,13 @@
+/* SWITCH TABS IN GROUP */
+[
+  {
+    "command": "workbench.action.nextEditorInGroup",
+    "key": "ctrl+l",
+    "when": "editorTextFocus && !panelVisible"
+  },
+  {
+    "command": "workbench.action.previousEditorInGroup",
+    "key": "ctrl+h",
+    "when": "editorTextFocus && !panelVisible"
+  }
+]
