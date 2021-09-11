@@ -1,0 +1,13 @@
+/* CURSOR UNDO/REDO */
+[
+  {
+    "key": "alt+z",
+    "command": "cursorUndo",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+shift+z",
+    "command": "cursorRedo",
+    "when": "editorTextFocus"
+  }
+]
