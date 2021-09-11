@@ -1,0 +1,18 @@
+/**
+*
+* PANEL (problems, output, terminal, debug console)
+*
+*/
+[
+  // PANEL: switch tabs <=||=>
+  {
+    "key": "ctrl+l",
+    "command": "workbench.action.nextPanelView",
+    "when": "panelVisible"
+  },
+  {
+    "key": "ctrl+h",
+    "command": "workbench.action.previousPanelView",
+    "when": "panelVisible"
+  }
+]

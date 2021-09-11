@@ -1,0 +1,48 @@
+/** DISABLE: alt+number switch tabs commands */
+[
+  {
+    "key": "alt+1",
+    "command": "",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+2",
+    "command": "",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+3",
+    "command": "",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+4",
+    "command": "",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+5",
+    "command": "",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+6",
+    "command": "",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+7",
+    "command": "",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+8",
+    "command": "",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+9",
+    "command": "",
+    "when": "editorTextFocus"
+  }
+]

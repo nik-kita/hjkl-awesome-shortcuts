@@ -1,0 +1,15 @@
+/* QUICK-PICKER */
+[
+  {
+    "key": "alt+j",
+    "command": "workbench.action.quickOpenSelectNext",
+    /* Catches Quick Picker, need better see github issue */
+    "when": "inputFocus && !editorFocus && !findInputFocussed && !findWidgetVisible"
+  },
+  {
+    "key": "alt+k",
+    "command": "workbench.action.quickOpenSelectPrevious",
+    /* Catches Quick Picker, need better see github issue */
+    "when": "inputFocus && !editorFocus && !findInputFocussed && !findWidgetVisible"
+  }
+]

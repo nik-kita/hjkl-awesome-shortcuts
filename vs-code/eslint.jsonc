@@ -1,0 +1,8 @@
+/** ESLINT */
+[
+  // auto all fix on current page
+  {
+    "key": "ctrl+shift+alt+i",
+    "command": "eslint.executeAutofix"
+  }
+]
