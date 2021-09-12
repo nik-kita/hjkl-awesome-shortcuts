@@ -1,0 +1,25 @@
+{
+  "name": "hjkl-awesome-shortcuts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/NikitaMoiseienko/hjkl-awesome-shortcuts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/NikitaMoiseienko/hjkl-awesome-shortcuts/issues"
+  },
+  "homepage": "https://gitlab.com/NikitaMoiseienko/hjkl-awesome-shortcuts#readme",
+  "devDependencies": {
+    "@types/node": "^16.9.1"
+  },
+  "dependencies": {
+    "jsonc-parser": "^3.0.0"
+  }
+}

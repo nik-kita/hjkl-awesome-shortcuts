@@ -1,0 +1,187 @@
+[
+  {
+    "key": "alt+1",
+    "command": "",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+2",
+    "command": "",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+3",
+    "command": "",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+4",
+    "command": "",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+5",
+    "command": "",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+6",
+    "command": "",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+7",
+    "command": "",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+8",
+    "command": "",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+9",
+    "command": "",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+shift+alt+h",
+    "command": "cursorHome",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+shift+alt+l",
+    "command": "cursorEnd",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+h",
+    "command": "cursorLeft",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+j",
+    "command": "cursorDown",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+k",
+    "command": "cursorUp",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+l",
+    "command": "cursorRight",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+shift+h",
+    "command": "cursorLeftSelect",
+    "when": "editorTextFocus"
+  },
+  {
+    "command": "cursorDownSelect",
+    "key": "alt+shift+j",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+shift+k",
+    "command": "cursorUpSelect",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+shift+l",
+    "command": "cursorRightSelect",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+z",
+    "command": "cursorUndo",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+shift+z",
+    "command": "cursorRedo",
+    "when": "editorTextFocus"
+  },
+  {
+    "command": "workbench.action.nextEditorInGroup",
+    "key": "ctrl+l",
+    "when": "editorTextFocus && !panelVisible"
+  },
+  {
+    "command": "workbench.action.previousEditorInGroup",
+    "key": "ctrl+h",
+    "when": "editorTextFocus && !panelVisible"
+  },
+  {
+    "key": "ctrl+shift+alt+i",
+    "command": "eslint.executeAutofix"
+  },
+  {
+    "key": "ctrl+alt+h",
+    "command": "workbench.action.navigateLeft"
+  },
+  {
+    "key": "ctrl+alt+l",
+    "command": "workbench.action.navigateRight"
+  },
+  {
+    "key": "ctrl+alt+k",
+    "command": "workbench.action.navigateUp"
+  },
+  {
+    "key": "ctrl+alt+j",
+    "command": "workbench.action.navigateDown"
+  },
+  {
+    "key": "ctrl+shift+alt+k",
+    "command": "editor.action.moveLinesUpAction",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+shift+alt+j",
+    "command": "editor.action.moveLinesDownAction",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+l",
+    "command": "workbench.action.nextPanelView",
+    "when": "panelVisible"
+  },
+  {
+    "key": "ctrl+h",
+    "command": "workbench.action.previousPanelView",
+    "when": "panelVisible"
+  },
+  {
+    "key": "alt+j",
+    "command": "workbench.action.quickOpenSelectNext",
+    "when": "inputFocus && !editorFocus && !findInputFocussed && !findWidgetVisible"
+  },
+  {
+    "key": "alt+k",
+    "command": "workbench.action.quickOpenSelectPrevious",
+    "when": "inputFocus && !editorFocus && !findInputFocussed && !findWidgetVisible"
+  },
+  {
+    "key": "alt+shift+u",
+    "command": "editor.action.smartSelect.expand",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+shift+i",
+    "command": "cursorUndo",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+alt+=",
+    "command": "workbench.action.splitEditorRight",
+    "when": "!panelVisible"
+  },
+  {
+    "key": "ctrl+alt+-",
+    "command": "workbench.action.splitEditorDown",
+    "when": "!panelVisible"
+  }
+]
