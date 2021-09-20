@@ -1,0 +1,7 @@
+/* TERMINAL */
+[
+  {
+    "key": "ctrl+shift+alt+t j",
+    "command": "workbench.action.terminal.focusNext"
+  }
+]

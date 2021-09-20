@@ -1,0 +1,7 @@
+/* DEBUGGER */
+[
+  {
+    "key": "ctrl+shift+alt+d b",
+    "command": "workbench.debug.action.focusVariablesView"
+  }
+]
