@@ -1,0 +1,15 @@
+// EXPLORER chords
+[
+  {
+    "key": "ctrl+shift+alt+x b",
+    "command": "workbench.explorer.fileView.focus"
+  },
+  {
+    "key": "ctrl+shift+alt+x -",
+    "command": "workbench.files.action.collapseExplorerFolders"
+  },
+  {
+    "key": "ctrl+shift+alt+x =",
+    "command": "workbench.files.action.showActiveFileInExplorer"
+  }
+]

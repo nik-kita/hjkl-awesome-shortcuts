@@ -1,12 +1,12 @@
 /* SELECTION: expand/shrink */
 [
   {
-    "key": "alt+shift+u",
+    "key": "alt+shift+i",
     "command": "editor.action.smartSelect.expand",
     "when": "editorTextFocus"
   },
   {
-    "key": "alt+shift+i",
+    "key": "alt+shift+u",
     "command": "cursorUndo",
     "when": "editorTextFocus"
   }

@@ -1,0 +1,13 @@
+// TERMINAL new/kill
+[
+  {
+    "key": "ctrl+shift+h",
+    "command": "workbench.action.terminal.kill",
+    "when": "terminalFocus"
+  },
+  {
+    "key": "ctrl+shift+l",
+    "command": "workbench.action.terminal.new",
+    "when": "terminalFocus"
+  }
+]

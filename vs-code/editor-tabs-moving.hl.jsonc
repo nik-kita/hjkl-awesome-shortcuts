@@ -1,0 +1,13 @@
+// EDITOR-TABS moving left/right
+[
+  {
+    "key": "ctrl+shift+h",
+    "command": "workbench.action.moveEditorLeftInGroup",
+    "when": "editorTextFocus && !panelVisible"
+  },
+  {
+    "key": "ctrl+shift+l",
+    "command": "workbench.action.moveEditorRightInGroup",
+    "when": "editorTextFocus && !panelVisible"
+  }
+]
