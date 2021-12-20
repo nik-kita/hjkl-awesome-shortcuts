@@ -1,0 +1,8 @@
+// Alternative for DELETE key
+[
+  {
+    "key": "shift+backspace",
+    "command": "deleteLeft",
+    "when": "textInputFocus"
+   }
+]
