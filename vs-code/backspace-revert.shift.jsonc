@@ -2,7 +2,7 @@
 [
   {
     "key": "shift+backspace",
-    "command": "deleteLeft",
+    "command": "deleteRight",
     "when": "textInputFocus"
    }
 ]
